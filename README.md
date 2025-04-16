@@ -9,7 +9,7 @@
 
 - [FUTURE PORTFOLIO] [issaml.com](issaml.com)
 
-- [FUTURE BLOG] [issaml.com/me/blog](issaml.com/me/blog)
+- [FUTURE BLOG] [issaml.com/me/blog](issaml.com/blog)
 
 - 📫 Reach me **contact@issaml.com**
 
