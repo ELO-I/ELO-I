@@ -1,4 +1,4 @@
-<h1 align="center">Enchanté Issam</h1>
+<h1 align="center">Enchanté, Issam</h1>
 <h3 align="center">Cooking my meal and my code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elo-i&label=Profile%20views&color=0eb429&style=plastic" alt="elo-i" /> </p>
